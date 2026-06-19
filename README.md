@@ -8,8 +8,6 @@
 
 ---
 
-Picky Mermaid only eats fish in color order (995 bytes)
-
 Eat fish in the correct color order.  
 Move the mermaid with your thumb or mouse.  
 The order starts at red (zero) and is anything within +90 degrees on the 360 degree color wheel.  
