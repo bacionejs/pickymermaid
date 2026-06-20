@@ -4,7 +4,7 @@
 
 [Try it](https://bacionejs.github.io/pickymermaid/index.html)    
 
-[View source code and download app](https://bacionejs.github.io/bacionejs/viewsource.html?file=https://raw.githubusercontent.com/bacionejs/pickymermaid/main/index.html)  
+[View source code and download game](https://bacionejs.github.io/bacionejs/viewsource.html?file=https://raw.githubusercontent.com/bacionejs/pickymermaid/main/index.html)  
 
 ---
 
